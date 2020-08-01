@@ -9,6 +9,7 @@
   .Business .image-container {
     height: 16.66rem;
     margin-bottom: 1rem;
+    border-radius: 20px;
   }
   
   .Business h2 {
@@ -42,7 +43,7 @@
   }
   
   .Business-reviews h3 {
-    color: #917335;
+    color: #ff8b1e;
     font-weight: 600;
   }
   
